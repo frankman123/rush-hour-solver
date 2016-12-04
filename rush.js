@@ -2,7 +2,7 @@
 // See: https://en.wikipedia.org/wiki/Rush_Hour_(board_game)
 
 // Written in javascript. 
-// Run using NodeJS on the cmomand line, e.g: node rush.js
+// Run using NodeJS on the command line, e.g: node rush.js
 // Output goes to STDOUT
 
 // This algorithm uses a brute force Breath First Search using a queue.
